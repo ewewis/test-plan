@@ -1,7 +1,7 @@
 # Test Plan for Naree Website
 
 **Project Name:** Naree Online Store  
-**Website URL:** [https://naree.pl/](https://naree.pl/)  
+**Website URL:** [https://naree.pl](https://naree.pl)  
 **Prepared by:** Ewelina Wisińska 
 **Date:** 18.02.2026 
 
@@ -34,7 +34,7 @@ The purpose of this document is to define the testing strategy, objectives, scop
 ---
 
 ## 2. Test Subject
-- **Website:** [https://naree.pl/pl/](https://naree.pl/pl/)  
+- **Website:** [https://naree.pl](https://naree.pl)  
 - **Type:** Online fashion store  
 - **Target Audience:** Customers browsing and purchasing fashion products online  
 
