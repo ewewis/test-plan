@@ -1,9 +1,9 @@
 # Test Plan for Naree Website
 
 **Project Name:** Naree Online Store  
-**Website URL:** [https://naree.pl/pl/](https://naree.pl/pl/)  
-**Prepared by:** [Ewelina Wisińska]  
-**Date:** [18.02.2026]  
+**Website URL:** [https://naree.pl/](https://naree.pl/)  
+**Prepared by:** Ewelina Wisińska 
+**Date:** 18.02.2026 
 
 ---
 
